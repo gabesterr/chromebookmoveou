@@ -20,5 +20,5 @@ Capture additional information on processed devices and flag devices not enrolle
 
 Current logic prevents moving device NOT in root - should make this a switch
 
-   gam update cros <device id> [user <user info>] [location <location info>]
-                           	[notes <notes info>] [ou <new org unit>]
+   gam update cros _device id_ [user _user info_] [location _location info_]
+                           	[notes _notes info_] [ou _new org unit_]
